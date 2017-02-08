@@ -1,7 +1,3 @@
-#Created 2/1/2017 by Chris Peterson and Suketu Kothari
-#modified 2/5/2017
-#Version : 1.1 release candidate 1
-
 import psycopg2
 import yaml
 import re
