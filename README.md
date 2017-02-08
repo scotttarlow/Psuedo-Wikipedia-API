@@ -1,4 +1,4 @@
-# This is the Readme for Project 6, a pseudo API for Wikipedia.
+# This is the Readme for a pseudo API for Wikipedia.
 
 See Example_Commandline_Output jupyter notebook for example outputs from the command line. 
 
