@@ -31,7 +31,7 @@ the search term.
 	 
 The method for searching is Latent Semantic Analysis. This functionality can be seen in lib/encoding_module.
 Using Latent Semantic Analysis(LSA), all the pages are encoded and uploaded to the data base. There is a
-Jupyter Notebook, Page_vectors_to_db which downloads all the wikipedia pages in project 6's database, encodes them
+Jupyter Notebook, Page_vectors_to_db which downloads all the wikipedia pages in the remote database, encodes them
 into vectors, and then uploads them to the data base.
 	 
 The search term is encoded to a vector using the same LSA transformer that was used to encode the pages.
