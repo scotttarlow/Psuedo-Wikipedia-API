@@ -1,4 +1,4 @@
-This is the Readme for Project 6, a pseudo API for Wikipedia.
+# This is the Readme for Project 6, a pseudo API for Wikipedia.
 
 See Example_Commandline_Output jupyter notebook for example outputs from the command line. 
 
@@ -12,7 +12,7 @@ The scope of this project involves 4 pipelines:
 	
 		./download '<category1>','<category2>', .....
 		
-		or 
+or 
 		
 	input the file path, as a string, of a .yml file:	
 	
@@ -70,6 +70,7 @@ The scope of this project involves 4 pipelines:
 	
 	
 These were the methods created separate from the rest of the class:
+
 	encoding_module.py
 	select_all_categories in database_module.py
 	
